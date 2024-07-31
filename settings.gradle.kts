@@ -1,2 +1,1 @@
-rootProject.name = "tdd2"
-
+rootProject.name = "tdd-rocket"
