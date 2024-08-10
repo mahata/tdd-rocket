@@ -1,11 +1,6 @@
 package rocket;
 
-public class UnsignedLaunchCodeStub implements LaunchCode {
-
-    @Override
-    public boolean isExpired() {
-        return false;
-    }
+public class UnsignedLaunchCodeStub extends ValidLaunchCodeStub {
 
     @Override
     public boolean isSigned() {
